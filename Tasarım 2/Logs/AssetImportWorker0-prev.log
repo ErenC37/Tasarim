@@ -1,0 +1,238 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.20f1 (41c4e627c95f) revision 4310246'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.1466; Version 2009; 64bit' Language: 'tr' Physical Memory: 16269 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Eren/Desktop/Proje
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49808
+Successfully changed project path to: C:/Users/Eren/Desktop/Proje
+C:/Users/Eren/Desktop/Proje
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 91.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.20f1 (41c4e627c95f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Eren/Desktop/Proje/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   30.0.15.1123
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56544
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003174 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 77.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.290 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2290ms)
+		BeginReloadAssembly (59ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (556ms)
+			LoadAssemblies (58ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (224ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (204ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (78ms)
+				BeforeProcessingInitializeOnLoad (10ms)
+				ProcessInitializeOnLoadAttributes (81ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007754 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 122.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.452 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1454ms)
+		BeginReloadAssembly (161ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (25ms)
+		EndReloadAssembly (1213ms)
+			LoadAssemblies (113ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (327ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (560ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (122ms)
+				BeforeProcessingInitializeOnLoad (114ms)
+				ProcessInitializeOnLoadAttributes (266ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 1.01 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2695 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.4 MB.
+System memory in use after: 112.6 MB.
+
+Unloading 68 unused Assets to reduce memory usage. Loaded Objects now: 3098.
+Total: 8.124600 ms (FindLiveObjects: 0.267400 ms CreateObjectMapping: 0.142800 ms MarkObjects: 7.566500 ms  DeleteObjects: 0.145900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/512x512/Eyelid 512.png
+  artifactKey: Guid(cc1f52d6923505c4598451f13978778f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/512x512/Eyelid 512.png using Guid(cc1f52d6923505c4598451f13978778f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fed8440a1e49aceb43b0a754102e9463') in 0.177508 seconds 
+  Import took 0.182610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/512x512/Mac 512.png
+  artifactKey: Guid(a79dbc4d254271a47bc835354666ed81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/512x512/Mac 512.png using Guid(a79dbc4d254271a47bc835354666ed81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2ea9d7bfd5a3c7c340f587bd6b0d985') in 0.035476 seconds 
+  Import took 0.040733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/512x512/Pupil 512.png
+  artifactKey: Guid(34a3d5607a0ccfc4f9384976166ab7b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/512x512/Pupil 512.png using Guid(34a3d5607a0ccfc4f9384976166ab7b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4fdc6a7e11138a451e8af7ab3c8c34b') in 0.032980 seconds 
+  Import took 0.040554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/512x512/Saw.png
+  artifactKey: Guid(68a3834f2b1dd354787570e78cf15747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/512x512/Saw.png using Guid(68a3834f2b1dd354787570e78cf15747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58aff73f244992ea5ca358b2771f72f6') in 0.034698 seconds 
+  Import took 0.041185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/512x512/eye 512.png
+  artifactKey: Guid(0427901dc915f874ebdc1a20db9fcd2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/512x512/eye 512.png using Guid(0427901dc915f874ebdc1a20db9fcd2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed336678d0cb2ca05ad1914d870add94') in 0.030079 seconds 
+  Import took 0.039165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.777974 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/Mace Preview.png
+  artifactKey: Guid(fd2bcdf3e54ea53458d24db0284940c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/Mace Preview.png using Guid(fd2bcdf3e54ea53458d24db0284940c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e832f64642e341163cf5a36d91ec46c') in 0.026849 seconds 
+  Import took 0.031639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.133497 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Chain-1.png
+  artifactKey: Guid(32d015e157dd8bb4a8c4755343c0d37b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Chain-1.png using Guid(32d015e157dd8bb4a8c4755343c0d37b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9306abdbe3a2ad637836118babd967d1') in 0.032857 seconds 
+  Import took 0.039309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Circle.png
+  artifactKey: Guid(1a665d63a39c8324da96957bf11f5e48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Circle.png using Guid(1a665d63a39c8324da96957bf11f5e48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '197f0a2dfd17b32a8d99c7ed4a16b5fa') in 0.030705 seconds 
+  Import took 0.035469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Square.png
+  artifactKey: Guid(a0325b0374e9ebc458051a5756fdef31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Square.png using Guid(a0325b0374e9ebc458051a5756fdef31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13d49cf5e70575fecdee85070e289a0c') in 0.028979 seconds 
+  Import took 0.034725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Mace-Chain.png
+  artifactKey: Guid(eacfb4eb999a5754cb662c1c764387d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Mace-Chain.png using Guid(eacfb4eb999a5754cb662c1c764387d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30be7398782d1d0ee664f7514c483a01') in 0.030350 seconds 
+  Import took 0.035746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Chain-2.png
+  artifactKey: Guid(90bed42d07262c343893f98710ccfea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Chain-2.png using Guid(90bed42d07262c343893f98710ccfea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df8012ab42478997ee8b32e4311b65da') in 0.025953 seconds 
+  Import took 0.031399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Chain-3.png
+  artifactKey: Guid(52b14921307165146bdfebb9c31cbdde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Chain-3.png using Guid(52b14921307165146bdfebb9c31cbdde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '923de2695ce21a6eefba943d984619c9') in 0.028656 seconds 
+  Import took 0.033622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Mace.png
+  artifactKey: Guid(fc97ccf59fb092546ba0bebe3e9e0142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Mace.png using Guid(fc97ccf59fb092546ba0bebe3e9e0142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6681b6b017533e1014474822c8daf1f3') in 0.031280 seconds 
+  Import took 0.036641 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
